@@ -3,7 +3,9 @@
   "displayName": "Flutter Image Static Generator",
   "description": "仅支持 Flutter：从 pubspec.yaml 读取配置；监听图片目录变化并自动生成路径常量，亦可手动执行命令",
   "version": "0.6.1",
-  "publisher": "local",
+  "publisher": "wenhuidong",
+  "icon": "logo.png",
+  "repository": "https://github.com/wenhui-dong/flutter-vscode-image-static-generator",
   "engines": {
     "vscode": "^1.85.0"
   },
